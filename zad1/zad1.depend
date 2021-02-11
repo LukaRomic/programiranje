@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\cold killer\documents\zad1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1613076741 source:c:\users\cold killer\documents\zad1\main.cpp
+	<cmath>
+	<iostream>
+
